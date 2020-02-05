@@ -21,12 +21,19 @@ section>h2{
 	text-align: center;
 	font-family: ariel;
 	font-size: 20px;
-	background-color: yellow;
 	height: 48px;
 	width: 200px;
 	padding-top: 10px;
 }
-
+section.indian>h2{
+  background-color: pink;
+}
+section.chinese>h2{
+  background-color: yellow;
+}
+section.italian>h2{
+  background-color: red;
+}
 section p{
 	padding: 50px 15px 15px 15px;
 
