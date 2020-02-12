@@ -1,0 +1,83 @@
+* {box-sizing: border-box;}
+
+#header-nav {
+  background-color: lightgrey;
+  border-radius: 0;
+  border:1px solid black;
+  padding-bottom: 0px;
+}
+
+.navbar-brand h1{
+	
+	font-size: 1.5em;
+	color: black;
+	font-weight: bold;
+	font-family: 'Oxygen', sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+li{
+	border-bottom: 1px solid black;
+}
+li:last-child{
+	border-bottom: none;
+}
+li:nth-child(1){
+	border-top: 1px solid black;
+}
+
+#nav-list {
+  margin: 0px -15px 0px -15px;
+  padding: 0px 0px 0px 0px;
+  background-color: white;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-size: 1.5em;
+}
+#nav-list a:hover {
+  background: skyblue;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+
+h2{
+	font-weight: bold;
+	font-family: 'Lora', serif;
+	font-size: 2em;
+}
+
+.chicken1{
+	background-color: pink;
+}
+.beef1{
+	background-color: yellow;
+}
+.sushi1{
+	background-color: skyblue;
+}
+
+section h3{
+	text-align: center;
+	padding-top: 5px;
+	font-family: 'Advent Pro';
+
+}
+
+section p {
+	font-family: 'Allan';
+	font-size: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
