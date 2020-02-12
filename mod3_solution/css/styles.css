@@ -33,7 +33,7 @@ li:nth-child(1){
 #nav-list {
   margin: 0px -15px 0px -15px;
   padding: 0px 0px 0px 0px;
-  background-color: white;
+  background-color: #CEFF43;
 }
 #nav-list a {
   color: black;
@@ -65,7 +65,7 @@ h2{
 	background-color: yellow;
 }
 .sushi1{
-	background-color: skyblue;
+	background-color: #86F567;
 }
 
 section h3{
