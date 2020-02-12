@@ -59,6 +59,8 @@ li:nth-child(1){
 	background:white;
 }
 
+
+
 h2{
 	font-weight: bold;
 	font-family: 'Lora', serif;
@@ -74,6 +76,9 @@ h2{
 .sushi1{
 	background-color: #86F567;
 }
+section{
+	position: relative;
+}
 
 section h3{
 	text-align: center;
@@ -87,4 +92,22 @@ section p {
 	font-size: 20px;
 	padding-left: 15px;
 	padding-right: 15px;
+	margin-bottom: 0;
+}
+
+section span{
+	padding-left: 15px;
+	font-family: 'Allan';
+	font-size: 20px;
+	;
+
+}
+section a {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	padding-right: 15px;
+	font-family: 'Allan';
+	font-size: 20px;
+
 }
