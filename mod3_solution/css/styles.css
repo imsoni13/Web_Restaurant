@@ -52,6 +52,13 @@ li:nth-child(1){
   margin-top: -40px;
 }
 
+.navbar-header button.navbar-toggle:focus{
+	background:white;
+}
+.navbar-header button.navbar-toggle:hover{
+	background:white;
+}
+
 h2{
 	font-weight: bold;
 	font-family: 'Lora', serif;
